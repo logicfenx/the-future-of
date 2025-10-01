@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/the-future-of",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a the-future-of",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/the-future-of.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/en/the-future-of-ai-checkers-smarter/"
+    },
+    "homepage": "https://bitcu.co/en/the-future-of-ai-checkers-smarter/"
+}
